@@ -1,4 +1,4 @@
-@@ -1,7 +1 @@
+@@ MIDE USO DE UNA SOLUCION TECNOLOGICA POR LA OPERACION @@
 ![Dashboard Power BI](uso.jpg)
 
 ![Dashboard Power BI](registroAsistencia.png)
